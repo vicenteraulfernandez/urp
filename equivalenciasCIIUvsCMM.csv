@@ -1,0 +1,411 @@
+CIIU;Descripcion_CIIU;MCC,Descripcion_MCC
+0111;Cultivo de cereales (excepto arroz), legumbres y semillas oleaginosas;0763;Servicios Agrícolas
+0112;Cultivo de arroz;0763;Servicios Agrícolas
+0113;Cultivo de hortalizas y legumbres;0763;Servicios Agrícolas
+0114;Cultivo de caña de azúcar;0763;Servicios Agrícolas
+0115;Cultivo de tabaco;0763;Servicios Agrícolas
+0116;Cultivo de plantas para bebidas;0763;Servicios Agrícolas
+0119;Otros cultivos n.c.p.;0763;Servicios Agrícolas
+0121;Cultivo de uva;0763;Servicios Agrícolas
+0122;Cultivo de frutas tropicales y subtropicales;0763;Servicios Agrícolas
+0123;Cultivo de frutos cítricos;0763;Servicios Agrícolas
+0124;Cultivo de frutos de hueso y pepitas;0763;Servicios Agrícolas
+0125;Cultivo de otros árboles frutales;0763;Servicios Agrícolas
+0126;Cultivo de frutos oleaginosos;0763;Servicios Agrícolas
+0127;Cultivo de especias y de plantas aromáticas y medicinales;0763;Servicios Agrícolas
+0128;Cultivo de palma aceitera;0763;Servicios Agrícolas
+0129;Otros cultivos perennes;0763;Servicios Agrícolas
+0130;Propagación de plantas;0780;Paisajismo y servicios relacionados con la jardinería
+1011;Procesamiento y conservación de carne;5462;Panaderías y tiendas de pasteles
+1012;Procesamiento y conservación de pescados, crustáceos y moluscos;5541;Estaciones de servicio
+1013;Procesamiento y conservación de frutas, legumbres y hortalizas;5431;Tiendas de frutas y verduras
+1020;Fabricación de productos de molinería;5462;Panaderías y tiendas de pasteles
+1030;Fabricación de almidones y productos derivados del almidón;5499;Otros comercios minoristas no clasificados anteriormente
+1040;Fabricación de productos de panadería;5462;Panaderías y tiendas de pasteles
+1050;Fabricación de azúcar;5462;Panaderías y tiendas de pasteles
+1061;Elaboración de azúcares y panela;5462;Panaderías y tiendas de pasteles
+1062;Elaboración de productos de confitería;5462;Panaderías y tiendas de pasteles
+1071;Elaboración de productos de molinería n.c.p;5462;Panaderías y tiendas de pasteles
+1072;Elaboración de productos de almidón;5499;Otros comercios minoristas no clasificados anteriormente
+1073;Elaboración de alimentos preparados para animales;5451;Comestibles y alimentos
+1080;Elaboración de otros productos alimenticios n.c.p;5499;Otros comercios minoristas no clasificados anteriormente
+1090;Fabricación de productos de panadería ;5462; Panaderías y tiendas de pasteles
+1101;Producción de bebidas no alcohólicas;5813;Bares, restaurantes y hoteles
+1102;Producción de vinos;5813;Bares, restaurantes y hoteles
+1103;Producción de licores y otras bebidas alcohólicas;5813;Bares, restaurantes y hoteles
+1200;Elaboración de productos de tabaco;5813;Bares, restaurantes y hoteles
+1311;Preparación e hilatura de fibras textiles;5655;Industria de prendas de vestir
+1312;Tejeduría de productos textiles;5655;Industria de prendas de vestir
+1313;Acabado de productos textiles;5655;Industria de prendas de vestir
+1314;Fabricación de tejidos de punto y ganchillo;5655;Industria de prendas de vestir
+1391;Confección de prendas de vestir de cuero;5691;Tiendas de ropa y accesorios
+1392;Confección de prendas de vestir de punto y ganchillo;5655;Industria de prendas de vestir
+1393;Confección de prendas de vestir, excepto prendas de piel;5655;Industria de prendas de vestir
+1394;Fabricación de accesorios de vestir, excepto prendas de piel;5655;Industria de prendas de vestir
+1399;Confección de otras prendas de vestir y accesorios;5691;Tiendas de ropa y accesorios
+1410;Fabricación de artículos de piel;5691;Tiendas de ropa y accesorios
+1421;Fabricación de maletas, bolsos de mano y artículos similares;5691;Tiendas de ropa y accesorios
+1429;Fabricación de artículos de viaje, bolsos de dormir y artículos similares;5691;Tiendas de ropa y accesorios
+1511;Procesamiento y conservación de carne;5462;Panaderías y tiendas de pasteles
+1512;Procesamiento y conservación de pescados, crustáceos y moluscos;5541;Estaciones de servicio
+1513;Procesamiento y conservación de frutas, legumbres y hortalizas;5431;Tiendas de frutas y verduras
+1520;Fabricación de productos de molinería;5462;Panaderías y tiendas de pasteles
+1531;Fabricación de aceites y grasas de origen vegetal y animal;5499;Otros comercios minoristas no clasificados anteriormente
+1532;Elaboración de productos lácteos;5499;Otros comercios minoristas no clasificados anteriormente
+1541;Fabricación de pan y productos de panadería;5462;Panaderías y tiendas de pasteles
+1542;Fabricación de galletas y productos de panadería;5462;Panaderías y tiendas de pasteles
+1543;Fabricación de macarrones, fideos, alcuzcuz;5462;Panaderías y tiendas de pasteles
+1549;Fabricación de otros productos alimenticios n.c.p.;5499;Otros comercios minoristas no clasificados anteriormente
+1610;Aserrado y cepillado de madera;5211;Artículos para el hogar
+1621;Fabricación de hojas de madera para enchapado;5211;Artículos para el hogar
+1622;Fabricación de tableros contrachapados, tableros laminados, tableros de partículas y otros tableros y paneles;5211;Artículos para el hogar
+1623;Fabricación de partes y piezas de carpintería para edificios y construcciones;5211;Artículos para el hogar
+1629;Fabricación de otros productos de madera, fabricación de artículos de corcho, cestería y espartería;5211;Artículos para el hogar
+1711;Preparación e hilatura de fibras textiles;5655;Industria de prendas de vestir
+1712;Tejeduría de productos textiles;5655;Industria de prendas de vestir
+1713;Acabado de productos textiles;5655;Industria de prendas de vestir
+1721;Fabricación de artículos confeccionados de materiales textiles, excepto prendas de vestir;5655;Industria de prendas de vestir
+1722;Fabricación de artículos de tapicería;5655;Industria de prendas de vestir
+1723;Fabricación de cuerdas, cordeles, bramantes y redes;5655;Industria de prendas de vestir
+1729;Fabricación de otros productos textiles n.c.p.;5655;Industria de prendas de vestir
+1811;Impresión y servicios relacionados con la impresión;7333;Publicidad
+1812;Actividades de servicios relacionados con la impresión;7333;Publicidad
+1820;Reproducción de grabaciones;5732;Electrónica y software
+1910;Cok de petróleo y otros combustibles derivados del petróleo;5541;Estaciones de servicio
+1920;Fabricación de productos químicos básicos;5169;Mayoristas de productos químicos
+2011;Fabricación de gases industriales;5499;Otros comercios minoristas no clasificados anteriormente
+2012;Fabricación de colorantes y pigmentos;5499;Otros comercios minoristas no clasificados anteriormente
+2013;Fabricación de otros productos químicos n.c.p.;5169;Mayoristas de productos químicos
+2021;Fabricación de plaguicidas y otros productos químicos agrícolas;5499;Otros comercios minoristas no clasificados anteriormente
+2022;Fabricación de pinturas, barnices y revestimientos similares;5499;Otros comercios minoristas no clasificados anteriormente
+2023;Fabricación de jabones y detergentes, preparados para limpiar y pulir, perfumes y productos de belleza;5499;Otros comercios minoristas no clasificados anteriormente
+2029;Fabricación de otros productos químicos n.c.p.;5169;Mayoristas de productos químicos
+2100;Fabricación de productos farmacéuticos, sustancias químicas medicinales y productos botánicos;5912;Farmacias y droguerías
+2211;Fabricación de llantas y neumáticos de caucho;5533;Venta de partes y piezas de repuesto para vehículos automotores
+2212;Reencauche de llantas;5533;Venta de partes y piezas de repuesto para vehículos automotores
+2219;Fabricación de otros productos de caucho n.c.p.;5533;Venta de partes y piezas de repuesto para vehículos automotores
+2221;Fabricación de placas, hojas, tubos y perfiles de plástico;5451;Comestibles y alimentos
+2222;Fabricación de empaques de plástico;5451;Comestibles y alimentos
+2223;Fabricación de productos de plástico n.c.p.;5451;Comestibles y alimentos
+2310;Fabricación de vidrio y productos de vidrio;5719;Otros comercios minoristas de artículos para el hogar
+2320;Fabricación de productos de cerámica y arcilla;5719;Otros comercios minoristas de artículos para el hogar
+2330;Fabricación de productos de cemento, cal y yeso;5699;Otros comercios minoristas no clasificados anteriormente
+2391;Fabricación de productos abrasivos y productos minerales no metálicos n.c.p.;5719;Otros comercios minoristas de artículos para el hogar
+2392;Fabricación de productos de hormigón;5699;Otros comercios minoristas no clasificados anteriormente
+2393;Corte, tallado y acabado de la piedra;5719;Otros comercios minoristas de artículos para el hogar
+2394;Fabricación de productos de arcilla y cerámica para la construcción;5699;Otros comercios minoristas no clasificados anteriormente
+2395;Fabricación de productos de fibrocemento;5699;Otros comercios minoristas no clasificados anteriormente
+2396;Fabricación de otros productos minerales no metálicos n.c.p.;5699;Otros comercios minoristas no clasificados anteriormente
+2411;Fabricación de productos básicos de hierro y acero;5211;Artículos para el hogar
+2412;Fabricación de productos básicos de metales preciosos y otros metales no ferrosos;5211;Artículos para el hogar
+2421;Fabricación de productos de ferretería;5211;Artículos para el hogar
+2422;Fabricación de cerraduras y herrajes;5211;Artículos para el hogar
+2423;Fabricación de herramientas de mano con motor;5211;Artículos para el hogar
+2429;Fabricación de otros productos de hierro y acero n.c.p.;5211;Artículos para el hogar
+2431;Fabricación de tanques, depósitos y recipientes de metal;5211;Artículos para el hogar
+2432;Fabricación de calderas y radiadores para calefacción central;5211;Artículos para el hogar
+2433;Fabricación de tanques de metal para líquidos;5211;Artículos para el hogar
+2434;Fabricación de recipientes metálicos para almacenamiento y transporte;5211;Artículos para el hogar
+2439;Fabricación de otros productos de metal n.c.p.;5211;Artículos para el hogar
+2511;Fabricación de estructuras metálicas y sus partes;5211;Artículos para el hogar
+2512;Fabricación de ventanas, puertas y estructuras similares de metal;5211;Artículos para el hogar
+2520;Fabricación de tanques, depósitos y recipientes de metal;5211;Artículos para el hogar
+2591;Fabricación de productos metálicos para uso estructural;5211;Artículos para el hogar
+2592;Fabricación de tanques, depósitos y recipientes de metal;5211;Artículos para el hogar
+2593;Fabricación de generadores de vapor, excepto calderas de agua caliente para calefacción central;5211;Artículos para el hogar
+2599;Fabricación de otros productos elaborados de metal n.c.p.;5211;Artículos para el hogar
+2610;Fabricación de componentes electrónicos;5732;Electrónica y software
+2620;Fabricación de computadoras y de equipo periférico;5732;Electrónica y software
+2630;Fabricación de equipos de comunicación;5732;Electrónica y software
+2640;Fabricación de productos electrónicos de consumo;5732;Electrónica y software
+2651;Fabricación de instrumentos y aparatos de medida, prueba, navegación y control;5732;Electrónica y software
+2652;Fabricación de relojes;5732;Electrónica y software
+2660;Fabricación de equipos de irradiación y equipo electrónico de uso médico y terapéutico;5732;Electrónica y software
+2670;Fabricación de material óptico y equipo fotográfico;5732;Electrónica y software
+2680;Fabricación de soportes magnéticos y ópticos para grabar sonido y video;5732;Electrónica y software
+2710;Fabricación de motores, generadores y transformadores eléctricos;5251;Venta de partes y piezas de repuesto para vehículos automotores
+2720;Fabricación de pilas, baterías y acumuladores;5732;Electrónica y software
+2731;Fabricación de hilos y cables eléctricos;5732;Electrónica y software
+2732;Fabricación de material eléctrico de instalación;5732;Electrónica y software
+2733;Fabricación de equipo de distribución y control de la energía eléctrica;5732;Electrónica y software
+2739;Fabricación de otros equipos de instalación eléctrica n.c.p.;5732;Electrónica y software
+2811;Fabricación de motores y turbinas, excepto motores para aeronaves, vehículos automotores y motocicletas;5251;Venta de partes y piezas de repuesto para vehículos automotores
+2812;Fabricación de equipos hidráulicos y neumáticos;5251;Venta de partes y piezas de repuesto para vehículos automotores
+2813;Fabricación de otros motores, generadores y transformadores eléctricos n.c.p.;5251;Venta de partes y piezas de repuesto para vehículos automotores
+2814;Fabricación de equipo de elevación y manipulación;5251;Venta de partes y piezas de repuesto para vehículos automotores
+2815;Fabricación de equipo de refrigeración y ventilación;5251;Venta de partes y piezas de repuesto para vehículos automotores
+2816;Fabricación de equipo de bombeo de líquidos;5251;Venta de partes y piezas de repuesto para vehículos automotores
+2817;Fabricación de otra maquinaria de uso general n.c.p.;5251;Venta de partes y piezas de repuesto para vehículos automotores
+2818;Fabricación de equipo de empaque y envase;5251;Venta de partes y piezas de repuesto para vehículos automotores
+2891;Fabricación de maquinaria para la elaboración de alimentos, bebidas y tabaco;5251;Venta de partes y piezas de repuesto para vehículos automotores
+2892;Fabricación de maquinaria para la elaboración de productos textiles, prendas de vestir y cueros;5251;Venta de partes y piezas de repuesto para vehículos automotores
+2893;Fabricación de maquinaria para la elaboración de papel y cartón;5251;Venta de partes y piezas de repuesto para vehículos automotores
+2894;Fabricación de maquinaria para la elaboración de productos de papel y cartón;5251;Venta de partes y piezas de repuesto para vehículos automotores
+2899;Fabricación de maquinaria para otros usos n.c.p.;5251;Venta de partes y piezas de repuesto para vehículos automotores
+2910;Fabricación de vehículos automotores;5599;Otros comercios minoristas de bienes nuevos no clasificados anteriormente
+2920;Fabricación de carrocerías para vehículos automotores, fabricación de remolques y semirremolques;5599;Otros comercios minoristas de bienes nuevos no clasificados anteriormente
+2930;Fabricación de partes, piezas y accesorios para vehículos automotores;5599;Otros comercios minoristas de bienes nuevos no clasificados anteriormente
+3011;Construcción de barcos y de estructuras flotantes;4481;Ferreterías y tiendas de construcción
+3012;Construcción de embarcaciones deportivas y de placer;4481;Ferreterías y tiendas de construcción
+3020;Fabricación de locomotoras y de material rodante para ferrocarriles;5599;Otros comercios minoristas de bienes nuevos no clasificados anteriormente
+3030;Fabricación de aeronaves, naves espaciales y maquinaria conexa;5599;Otros comercios minoristas de bienes nuevos no clasificados anteriormente
+3040;Fabricación de vehículos militares de combate;5599;Otros comercios minoristas de bienes nuevos no clasificados anteriormente
+3091;Fabricación de motocicletas;5599;Otros comercios minoristas de bienes nuevos no clasificados anteriormente
+3092;Fabricación de bicicletas y de sillas de ruedas para personas con discapacidad;5599;Otros comercios minoristas de bienes nuevos no clasificados anteriormente
+3099;Fabricación de otros tipos de equipo de transporte n.c.p.;5599;Otros comercios minoristas de bienes nuevos no clasificados anteriormente
+3100;Fabricación de muebles;5712;Mueblerías y tiendas de colchones
+3211;Fabricación de joyas y artículos conexos;5691;Tiendas de ropa
+3212;Fabricación de instrumentos musicales;5732;Electrónica y software
+3220;Fabricación de artículos de deporte;5941;Venta al por menor de artículos deportivos en establecimientos especializados
+3230;Fabricación de juegos y juguetes;5945;Venta al por menor de juguetes y juegos en establecimientos especializados
+3240;Fabricación de instrumentos y suministros médicos y odontológicos;5259;Venta al por menor de otros productos nuevos en comercios especializados
+3250;Fabricación de productos de óptica y fotográficos;5259;Venta al por menor de otros productos nuevos en comercios especializados
+3290;Fabricación de otros productos manufacturados n.c.p.;5259;Venta al por menor de otros productos nuevos en comercios especializados
+3510;Generación, transmisión y distribución de energía eléctrica;4900;Venta al por menor no realizada en comercios, puestos de venta o mercados
+3520;Distribución de gas por tuberías;4900;Venta al por menor no realizada en comercios, puestos de venta o mercados
+3530;Suministro de vapor y aire acondicionado;4900;Venta al por menor no realizada en comercios, puestos de venta o mercados
+3600;Recogida y tratamiento de aguas residuales;4900;Venta al por menor no realizada en comercios, puestos de venta o mercados
+3700;Recolección, tratamiento y eliminación de desperdicios, reciclamiento de materiales;4900;Venta al por menor no realizada en comercios, puestos de venta o mercados
+3811;Recogida de desechos no peligrosos;4900;Venta al por menor no realizada en comercios, puestos de venta o mercados
+3812;Recogida de desechos peligrosos;4900;Venta al por menor no realizada en comercios, puestos de venta o mercados
+3821;Tratamiento y eliminación de desechos no peligrosos;4900;Venta al por menor no realizada en comercios, puestos de venta o mercados
+3822;Tratamiento y eliminación de desechos peligrosos;4900;Venta al por menor no realizada en comercios, puestos de venta o mercados
+3830;Recuperación de materiales;4900;Venta al por menor no realizada en comercios, puestos de venta o mercados
+3900;Actividades de saneamiento ambiental y otros servicios de gestión de desechos;4900;Venta al por menor no realizada en comercios, puestos de venta o mercados
+4110;Construcción de edificios;5211;Artículos para el hogar
+4120;Construcción de proyectos de ingeniería civil;5211;Artículos para el hogar
+4210;Construcción de carreteras y vías de ferrocarril;5211;Artículos para el hogar
+4220;Construcción de proyectos de servicio público;5211;Artículos para el hogar
+4290;Otras actividades de construcción n.c.p.;5211;Artículos para el hogar
+4311;Demolición;5211;Artículos para el hogar
+4312;Preparación del terreno;5211;Artículos para el hogar
+4321;Instalaciones eléctricas;5259;Venta al por menor de otros productos nuevos en comercios especializados
+4322;Fontanería, instalación de sistemas de calefacción y aire acondicionado;5259;Venta al por menor de otros productos nuevos en comercios especializados
+4329;Otras instalaciones de obras de construcción;5259;Venta al por menor de otros productos nuevos en comercios especializados
+4330;Acabado de edificios;5259;Venta al por menor de otros productos nuevos en comercios especializados
+4390;Otras actividades especializadas de construcción n.c.p.;5259;Venta al por menor de otros productos nuevos en comercios especializados
+4511;Venta de automóviles y camionetas nuevas;5511;Venta de automóviles y vehículos automotores ligeros
+4512;Venta de vehículos automotores pesados;5511;Venta de automóviles y vehículos automotores ligeros
+4519;Venta de otros vehículos automotores;5511;Venta de automóviles y vehículos automotores ligeros
+4520;Mantenimiento y reparación de vehículos automotores;7538;Talleres mecánicos para vehículos automotores
+4530;Venta de partes, piezas y accesorios de vehículos automotores;5531;Venta de partes, piezas y accesorios de vehículos automotores
+4540;Mantenimiento y reparación de motocicletas y de sus partes, piezas y accesorios;5599;Otros comercios minoristas de bienes nuevos no clasificados anteriormente
+4610;Venta al por mayor a cambio de una retribución o por contrata;7011;Hoteles y moteles
+4620;Venta al por mayor de productos agrícolas;7011;Hoteles y moteles
+4630;Venta al por mayor de alimentos, bebidas y tabaco;7011;Hoteles y moteles
+4641;Venta al por mayor de textiles, prendas de vestir y calzado;7011;Hoteles y moteles
+4642;Venta al por mayor de metales y minerales metálicos;7011;Hoteles y moteles
+4651;Venta al por mayor de maquinaria, equipos y materiales;7011;Hoteles y moteles
+4652;Venta al por mayor de componentes y repuestos electrónicos y de telecomunicaciones;7011;Hoteles y moteles
+4653;Venta al por mayor de maquinaria y equipo agropecuario, forestal y para la pesca;7011;Hoteles y moteles
+4659;Venta al por mayor de otros tipos de maquinaria y equipo n.c.p.;7011;Hoteles y moteles
+4661;Venta al por mayor de combustibles sólidos, líquidos y gaseosos y productos conexos;7011;Hoteles y moteles
+4662;Venta al por mayor de minerales metálicos y no metálicos, excepto combustibles;7011;Hoteles y moteles
+4663;Venta al por mayor de materiales de construcción, artículos de ferretería y equipo y materiales de fontanería y calefacción;7011;Hoteles y moteles
+4669;Venta al por mayor de otros productos n.c.p.;7011;Hoteles y moteles
+4711;Comercio al por menor en establecimientos no especializados;5399;Otros servicios de información
+4721;Comercio al por menor de alimentos en establecimientos especializados;5411;Tiendas de abarrotes y supermercados
+4722;Comercio al por menor de carne y productos cárnicos en establecimientos especializados;5421;Mercados de carne
+4723;Comercio al por menor de pescados y mariscos en establecimientos especializados;5421;Mercados de carne
+4724;Comercio al por menor de bebidas en establecimientos especializados;5499;Comercio al por menor no realizado en establecimientos, puestos de venta o mercados
+4729;Comercio al por menor de productos alimenticios n.c.p. en establecimientos especializados;5411;Tiendas de abarrotes y supermercados
+4730;Comercio al por menor de combustible para vehículos automotores en establecimientos especializados;5541;Estaciones de servicio
+4741;Comercio al por menor de ordenadores, equipos periféricos, programas informáticos y equipos de telecomunicaciones en establecimientos especializados;5734;Comercio minorista de productos informáticos y de telecomunicaciones en establecimientos especializados
+4742;Comercio al por menor de equipos de audio y video en establecimientos especializados;5732;Electrónica y software
+4743;Comercio al por menor de materiales de construcción, artículos de ferretería, pinturas y productos de vidrio en establecimientos especializados;5259;Venta al por menor de otros productos nuevos en comercios especializados
+4744;Comercio al por menor de artículos de ferretería, pinturas y productos de vidrio en establecimientos especializados;5259;Venta al por menor de otros productos nuevos en comercios especializados
+4751;Comercio al por menor de textiles en establecimientos especializados;5651;Venta de indumentaria (ropa) en comercios especializados
+4752;Comercio al por menor de artículos de cuero en establecimientos especializados;5630;Comercio al por menor de calzado y artículos de cuero
+4753;Comercio al por menor de artículos de perfumería, cosméticos y artículos de tocador en establecimientos especializados;5992;Floristerías y tiendas de regalos
+4759;Comercio al por menor de otros artículos en establecimientos especializados;5259;Venta al por menor de otros productos nuevos en comercios especializados
+4911;Transporte de pasajeros por ferrocarril;4111;Transporte de pasajeros por ferrocarril
+4912;Transporte de carga por ferrocarril;4112;Transporte de carga por ferrocarril
+4921;Transporte de pasajeros por vías navegables interiores;4411;Transporte de pasajeros por vías navegables interiores
+4922;Transporte de carga por vías navegables interiores;4412;Transporte de carga por vías navegables interiores
+4923;Transporte de pasajeros por taxi;4121;Transporte de pasajeros en taxis
+4924;Transporte de pasajeros por automóviles de alquiler con chofer;4121;Transporte de pasajeros en taxis
+4925;Transporte escolar;4121;Transporte de pasajeros en taxis
+4929;Otros tipos de transporte terrestre de pasajeros n.c.p.;4121;Transporte de pasajeros en taxis
+4930;Transporte de pasajeros por vía aérea;4512;Aerolíneas, líneas aéreas
+4931;Transporte de carga por vía aérea;4512;Aerolíneas, líneas aéreas
+4932;Operadores turísticos;4722;Agencias de viajes y tour operadores
+4939;Otros tipos de transporte aéreo de pasajeros n.c.p.;4512;Aerolíneas, líneas aéreas
+4941;Transporte de pasajeros por ferrocarril subterráneo y tranvías;4111;Transporte de pasajeros por ferrocarril
+4942;Transporte de carga por ferrocarril subterráneo y tranvías;4112;Transporte de carga por ferrocarril
+4950;Transporte de pasajeros por taxi aéreo;4512;Aerolíneas, líneas aéreas
+5011;Transporte marítimo de pasajeros;4413;Transporte de pasajeros por vías navegables
+5012;Transporte marítimo de carga;4414;Transporte de carga por vías navegables
+5021;Remolque y empuje;4499;Otros servicios de transporte terrestre n.c.p.
+5022;Actividades de las agencias de navegación marítima;4415;Servicios de agencias de viajes y servicios de reservas
+5030;Transporte por tuberías;4950;Transporte y almacenamiento de petróleo crudo
+5110;Transporte aéreo;4512;Aerolíneas, líneas aéreas
+5121;Transporte de carga por carretera;4213;Servicios de mensajería y paquetería
+5122;Transporte de pasajeros por carretera regular;4110;Transporte terrestre de pasajeros
+5123;Transporte de pasajeros por carretera no regular;4110;Transporte terrestre de pasajeros
+5211;Depósito y almacenamiento;4220;Depósitos y almacenamiento
+5221;Actividades de estaciones de servicio;5541;Estaciones de servicio
+5222;Otros servicios anexos al transporte terrestre;4119;Otros servicios de transporte terrestre n.c.p.
+5223;Servicios de embalaje y almacenamiento de carga;4220;Depósitos y almacenamiento
+5229;Otras actividades de depósito y almacenamiento n.c.p.;4220;Depósitos y almacenamiento
+5310;Actividades postales conexas;4311;Servicios postales
+5320;Actividades de mensajería;4213;Servicios de mensajería y paquetería
+5510;Alojamiento;7011;Hoteles y moteles
+5520;Actividades de campamentos y otros tipos de alojamiento temporales;7011;Hoteles y moteles
+5530;Restaurantes y otros servicios de comidas;5812;Retail - Comida rápida
+5530;Restaurantes y otros servicios de comidas;5814;Retail - Comida para llevar y entrega a domicilio
+5540;Bares y otros establecimientos de bebidas;5813;Retail - Bebidas alcohólicas y no alcohólicas
+5610;Expendio de comidas preparadas en restaurantes;5812;Retail - Comida rápida
+5621;Provisión de comidas preparadas en eventos;5812;Retail - Comida rápida
+5629;Otros servicios de comidas;5812;Retail - Comida rápida
+5811;Edición de libros;5814;Retail - Comida para llevar y entrega a domicilio
+5812;Edición de directorios y listas de correo;5814;Retail - Comida para llevar y entrega a domicilio
+5813;Edición de periódicos;5814;Retail - Comida para llevar y entrega a domicilio
+5814;Edición de revistas;5814;Retail - Comida para llevar y entrega a domicilio
+5819;Otras actividades de edición;5814;Retail - Comida para llevar y entrega a domicilio
+5820;Edición de programas de informática;5734;Comercio minorista de productos informáticos y de telecomunicaciones en establecimientos especializados
+5911;Actividades de producción de películas cinematográficas;7830;Servicios de grabación de sonido y edición de música
+5912;Actividades de postproducción de películas cinematográficas;7830;Servicios de grabación de sonido y edición de música
+5913;Actividades de distribución de películas cinematográficas;7830;Servicios de grabación de sonido y edición de música
+5914;Actividades de exhibición de películas cinematográficas;7830;Servicios de grabación de sonido y edición de música
+5920;Actividades de grabación de sonido y edición de música;7830;Servicios de grabación de sonido y edición de música
+6010;Actividades de radiodifusión;4833;Otros servicios de telecomunicaciones
+6020;Actividades de programación y transmisión de televisión;4833;Otros servicios de telecomunicaciones
+6110;Servicios de telecomunicaciones alámbricas;4833;Otros servicios de telecomunicaciones
+6120;Servicios de telecomunicaciones inalámbricas;4833;Otros servicios de telecomunicaciones
+6130;Servicios de telecomunicaciones satelitales;4833;Otros servicios de telecomunicaciones
+6190;Otros servicios de telecomunicaciones n.c.p.;4833;Otros servicios de telecomunicaciones
+6201;Actividades de desarrollo de sistemas informáticos;5734;Comercio minorista de productos informáticos y de telecomunicaciones en establecimientos especializados
+6202;Actividades de consultoría informática y actividades de administración de instalaciones informáticas;5734;Comercio minorista de productos informáticos y de telecomunicaciones en establecimientos especializados
+6209;Otros servicios informáticos n.c.p.;5734;Comercio minorista de productos informáticos y de telecomunicaciones en establecimientos especializados
+6311;Procesamiento de datos;5734;Comercio minorista de productos informáticos y de telecomunicaciones en establecimientos especializados
+6319;Otros servicios de procesamiento de datos;5734;Comercio minorista de productos informáticos y de telecomunicaciones en establecimientos especializados
+6391;Actividades de agencias de noticias;5813;Retail - Bebidas alcohólicas y no alcohólicas
+6399;Otras actividades de servicios de información n.c.p.;5734;Comercio minorista de productos informáticos y de telecomunicaciones en establecimientos especializados
+6411;Banco central;6012;Bancos Centrales
+6419;Actividades de bancos comerciales y otras instituciones financieras n.c.p.;6011;Bancos comerciales
+6420;Actividades de bancos hipotecarios;6011;Bancos comerciales
+6430;Actividades de bancos para la vivienda;6011;Bancos comerciales
+6491;Actividades de bancos centrales;6012;Bancos Centrales
+6492;Actividades de fideicomisos, fondos y similares de financiamiento;6019;Instituciones financieras n.c.p.
+6499;Otras actividades de servicios financieros, excepto las de seguros y pensiones n.c.p.;6019;Instituciones financieras n.c.p.
+6511;Seguros de vida;6300;Compañías de seguros de vida
+6512;Seguros generales;6300;Compañías de seguros de vida
+6520;Reaseguros;6300;Compañías de seguros de vida
+6530;Fondos de pensiones;6300;Compañías de seguros de vida
+6611;Administración de mercados financieros;6019;Instituciones financieras n.c.p.
+6619;Otras actividades auxiliares a los servicios financieros, excepto seguros y pensiones n.c.p.;6019;Instituciones financieras n.c.p.
+6621;Evaluación de riesgos y daños;6300;Compañías de seguros de vida
+6622;Actividades de agentes y corredores de seguros;6300;Compañías de seguros de vida
+6630;Actividades de administración de fondos;6019;Instituciones financieras n.c.p.
+6810;Actividades inmobiliarias realizadas con bienes propios o arrendados;6512;Bienes raíces - Agentes y administradores
+6820;Actividades inmobiliarias realizadas a cambio de una retribución o por contrato;6512;Bienes raíces - Agentes y administradores
+6910;Servicios jurídicos;8111;Servicios legales
+6920;Actividades de contabilidad, teneduría de libros y auditoría, asesoramiento en materia de impuestos;7296;Servicios de contabilidad, auditoría y teneduría de libros
+7010;Actividades de las sedes centrales;6019;Instituciones financieras n.c.p.
+7020;Actividades de consultoría de gestión;7290;Servicios de asesoramiento empresarial y en materia de gestión
+7111;Servicios de arquitectura paisajista;7290;Servicios de asesoramiento empresarial y en materia de gestión
+7112;Servicios de arquitectura;7290;Servicios de asesoramiento empresarial y en materia de gestión
+7120;Ensayos y análisis técnicos;7290;Servicios de asesoramiento empresarial y en materia de gestión
+7210;Investigación y desarrollo experimental en el campo de las ciencias naturales y la ingeniería;7290;Servicios de asesoramiento empresarial y en materia de gestión
+7220;Investigación y desarrollo experimental en el campo de las ciencias sociales y las humanidades;7290;Servicios de asesoramiento empresarial y en materia de gestión
+7310;Publicidad;7311;Agencias de publicidad
+7320;Estudios de mercado y realización de encuestas de opinión pública;7320;Servicios de estudios de mercado y encuestas de opinión pública
+7410;Actividades especializadas de diseño;7290;Servicios de asesoramiento empresarial y en materia de gestión
+7420;Actividades de fotografía;7290;Servicios de asesoramiento empresarial y en materia de gestión
+7491;Actividades de diseño de sistemas informáticos;7290;Servicios de asesoramiento empresarial y en materia de gestión
+7492;Actividades de consultoría y diseño informático;7290;Servicios de asesoramiento empresarial y en materia de gestión
+7493;Actividades de programación informática;5734;Comercio minorista de productos informáticos y de telecomunicaciones en establecimientos especializados
+7499;Otras actividades profesionales, científicas y técnicas n.c.p.;7290;Servicios de asesoramiento empresarial y en materia de gestión
+7500;Actividades veterinarias;7523;Servicios veterinarios
+7710;Alquiler y arrendamiento de vehículos automotores;7512;Alquiler de automóviles y vehículos de motor ligeros
+7721;Alquiler de cintas de video y discos;7841;Servicios de video
+7722;Alquiler de efectos de uso personal y doméstico n.c.p.;7123;Servicios de alquiler de videos
+7729;Alquiler de otros efectos personales y enseres domésticos n.c.p.;7123;Servicios de alquiler de videos
+7730;Alquiler y arrendamiento de otros efectos personales y enseres domésticos;7123;Servicios de alquiler de videos
+7740;Arrendamiento de propiedad intelectual y productos similares;7740;Servicios de propiedad intelectual
+7810;Actividades de agencias de empleo;7361;Agencias de empleo
+7820;Actividades de las agencias de colocación;7361;Agencias de empleo
+7830;Otros servicios de empleo;7361;Agencias de empleo
+7911;Actividades de agencias de viajes;4722;Agencias de viajes y operadores turísticos
+7912;Actividades de operadores turísticos;4722;Agencias de viajes y operadores turísticos
+7990;Otros servicios de reservas y actividades relacionadas;4722;Agencias de viajes y operadores turísticos
+8010;Actividades de seguridad privada;7392;Servicios de detectives e investigaciones de seguridad
+8020;Servicios de sistemas de seguridad;7392;Servicios de detectives e investigaciones de seguridad
+8030;Actividades de detectives e investigaciones de seguridad;7392;Servicios de detectives e investigaciones de seguridad
+8110;Actividades combinadas de apoyo a instalaciones empresariales;8110;Servicios combinados de apoyo a instalaciones empresariales
+8121;Limpieza general de edificios;8121;Servicios de limpieza general de edificios
+8129;Otras actividades de limpieza n.c.p.;8129;Servicios de limpieza de otros tipos de edificios e instalaciones industriales
+8130;Servicios de paisajismo y silvicultura;8130;Servicios de paisajismo y silvicultura
+8211;Servicios combinados de oficinas generales;8211;Servicios combinados de oficinas generales
+8219;Fotocopiado, preparación de documentos y otras actividades especializadas de oficina;8219;Otros servicios de fotocopiado, preparación de documentos y otras actividades especializadas de oficina
+8220;Actividades de centros de llamadas;8220;Actividades de centros de llamadas
+8230;Organización de convenciones y ferias comerciales;8230;Organización de convenciones y ferias comerciales
+8291;Actividades de agencias de cobranza y oficinas de calificación crediticia;8291;Actividades de agencias de cobranza y oficinas de calificación crediticia
+8292;Actividades de envasado;8292;Actividades de envasado
+8299;Otras actividades de servicios de apoyo a las empresas n.c.p.;8299;Otras actividades de servicios de apoyo a las empresas n.c.p.
+8411;Administración pública en general;8411;Administración pública en general
+8412;Regulación de las actividades de organismos que prestan servicios de salud, educativos, culturales y otros servicios sociales, excepto servicios de seguridad social;8412;Regulación de las actividades de organismos que prestan servicios de salud, educativos, culturales y otros servicios sociales, excepto servicios de seguridad social
+8413;Regulación de las actividades de seguridad social;8413;Regulación de las actividades de seguridad social
+8421;Relaciones exteriores;8421;Relaciones exteriores
+8422;Actividades de defensa;8422;Actividades de defensa
+8423;Orden público y actividades de seguridad;8423;Orden público y actividades de seguridad
+8424;Provisión de servicios de justicia;8424;Provisión de servicios de justicia
+8425;Actividades de mantenimiento del orden público y de seguridad;8425;Actividades de mantenimiento del orden público y de seguridad
+8430;Actividades de servicios de seguridad social obligatoria;8430;Actividades de servicios de seguridad social obligatoria
+8511;Educación preprimaria;8511;Educación preprimaria
+8512;Educación primaria;8512;Educación primaria
+8513;Educación secundaria de tipo general;8513;Educación secundaria de tipo general
+8514;Educación secundaria técnica o profesional;8514;Educación secundaria técnica o profesional
+8521;Educación terciaria no universitaria;8220;Colegios comerciales, servicios de escuelas comerciales
+8522;Educación universitaria;8220;Colegios comerciales, servicios de escuelas comerciales
+8530;Educación de instituciones educativas no terciarias;8220;Colegios comerciales, servicios de escuelas comerciales
+8541;Educación postsecundaria técnica;8220;Colegios comerciales, servicios de escuelas comerciales
+8542;Educación postsecundaria no terciaria de formación técnica;8220;Colegios comerciales, servicios de escuelas comerciales
+8550;Otra educación;8299;Servicios educativos
+8560;Servicios de apoyo a la educación;8299;Servicios educativos
+8610;Actividades hospitalarias;8062;Hospitales
+8620;Actividades de médicos y odontólogos;8011;Servicios de médicos y dentistas
+8690;Actividades de atención de la salud humana;8071;Servicios médicos
+8710;Actividades de atención en instituciones residenciales para el cuidado de personas con problemas mentales y abuso de sustancias;8059;Servicios de atención en instituciones
+8720;Actividades de atención en instituciones para personas mayores y discapacitadas;8059;Servicios de atención en instituciones
+8730;Actividades de atención en instituciones de servicios residenciales;8059;Servicios de atención en instituciones
+8790;Actividades de atención en instituciones de otros servicios residenciales;8059;Servicios de atención en instituciones
+8810;Actividades de atención de la salud humana no clasificadas en otra parte;8071;Servicios médicos
+8890;Otras actividades de atención de la salud humana;8071;Servicios médicos
+9000;Actividades creativas, artísticas y de entretenimiento;7911;Agencias de viajes y operadores turísticos
+9111;Actividades de organizaciones empresariales y de empleadores;9402;Actividades de organizaciones empresariales y de empleadores
+9112;Actividades de organizaciones profesionales;9402;Actividades de organizaciones empresariales y de empleadores
+9120;Actividades de sindicatos;9403;Actividades de organizaciones sindicales
+9130;Actividades de asociaciones religiosas;9499;Actividades de otras asociaciones n.c.p.
+9191;Actividades de organizaciones políticas;9499;Actividades de otras asociaciones n.c.p.
+9192;Actividades de organizaciones de interés público n.c.p.;9499;Actividades de otras asociaciones n.c.p.
+9199;Otras actividades de asociaciones n.c.p.;9499;Actividades de otras asociaciones n.c.p.
+9200;Actividades de juegos de azar y apuestas;7995;Salas de bingo, casinos y otros juegos de azar
+9311;Gestión de instalaciones deportivas;9311;Gestión de instalaciones deportivas
+9312;Actividades de clubes deportivos;9312;Actividades de clubes deportivos
+9319;Otras actividades deportivas;9319;Otras actividades deportivas
+9321;Actividades de parques de atracciones y parques temáticos;7996;Parques de atracciones y parques temáticos
+9329;Otras actividades recreativas y de esparcimiento n.c.p.;7999;Servicios de entretenimiento n.c.p.
+9411;Actividades de organizaciones empresariales y de empleadores;9499;Actividades de otras asociaciones n.c.p.
+9491;Actividades de organizaciones religiosas;9499;Actividades de otras asociaciones n.c.p.
+9492;Actividades de organizaciones políticas;9499;Actividades de otras asociaciones n.c.p.
+9499;Otras actividades de organizaciones n.c.p.;9499;Actividades de otras asociaciones n.c.p.
+9511;Reparación de ordenadores y de equipos periféricos;7379;Servicios relacionados con la reparación de ordenadores y efectos personales y domésticos
+9512;Reparación de equipos de comunicación;7379;Servicios relacionados con la reparación de ordenadores y efectos personales y domésticos
+9521;Reparación de aparatos electrónicos de consumo;7379;Servicios relacionados con la reparación de ordenadores y efectos personales y domésticos
+9522;Reparación de equipos de audio y vídeo;7379;Servicios relacionados con la reparación de ordenadores y efectos personales y domésticos
+9523;Reparación de equipos de precisión;7379;Servicios relacionados con la reparación de ordenadores y efectos personales y domésticos
+9524;Reparación de bicicletas y de otros equipos de transporte personal;7379;Servicios relacionados con la reparación de ordenadores y efectos personales y domésticos
+9529;Otras reparaciones n.c.p.;7379;Servicios relacionados con la reparación de ordenadores y efectos personales y domésticos
+9601;Lavado y (limpieza, incluso la limpieza en seco, de prendas de vestir y de otros artículos textiles);7211;Lavanderías y tintorerías
+9602;Peluquería y otros tratamientos de belleza;7230;Peluquería y otros tratamientos de belleza
+9603;Pompas fúnebres y actividades relacionadas;7260;Pompas fúnebres y actividades relacionadas
+9609;Otras servicios personales n.c.p.;7290;Otros servicios personales
+9700;Actividades de los hogares como empleadores de personal doméstico;8800;Actividades de atención en instituciones
+9800;Actividades de los hogares como productores de bienes y servicios para uso propio;8800;Actividades de atención en instituciones
+9900;Organismos extraterritoriales;9900;Organismos extraterritoriales
+
+
+
+
+
